@@ -1,6 +1,6 @@
 /* Jquery el */
 
-var words = ['View Data Dashboard Below','Mediceram','Your Trusted Ceramic Formers Supplier', 'Visit also Robert Lancaon Hortal Youtube Videos'],
+var words = ['View Data Dashboard Below','mediceram sdn bhd','Your Trusted Ceramic Formers Supplier', 'Visit also Robert Lancaon Hortal Youtube Videos'],
     part,
     i = 0,
     offset = 0,
